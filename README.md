@@ -21,15 +21,15 @@
 
 - Pour chaque message de l'utilisateur :
 
- -Le script ajoute ce message à l'historique de la conversation.
+ - Le script ajoute ce message à l'historique de la conversation.
   
- -Il envoie l'historique complet à l'API OpenAI pour obtenir une réponse.
+ - Il envoie l'historique complet à l'API OpenAI pour obtenir une réponse.
  
- -Il enregistre la réponse de l'IA dans l'historique de la conversation.
+ - Il enregistre la réponse de l'IA dans l'historique de la conversation.
  
- -Il affiche la réponse de l'IA dans la console.
+ - Il affiche la réponse de l'IA dans la console.
  
- -Il enregistre chaque échange (message de l'utilisateur et réponse de l'IA) dans le fichier journal correspondant.
+ - Il enregistre chaque échange (message de l'utilisateur et réponse de l'IA) dans le fichier journal correspondant.
   
 ***5.*** **Fin de la conversation :**
 
