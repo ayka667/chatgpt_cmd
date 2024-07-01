@@ -1,4 +1,4 @@
-# ___***Chat GPT on the cmd Windows***__
+# __***Chat GPT on the cmd Windows***__
 
 # **Fonctionnalités du script**
 
@@ -33,7 +33,7 @@
 
 # Installations
 
-You must put your open ai key in the config.json
+Vous devez mettre votre clé ai ouverte dans le config.json
 
 ```
 {
