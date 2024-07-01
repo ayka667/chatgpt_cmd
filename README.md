@@ -20,10 +20,15 @@
 - Le cœur du script est une boucle où l'utilisateur entre des messages qu'il veut envoyer à l'IA. L'utilisateur peut taper des messages comme s'il conversait avec une personne réelle.
 
 - Pour chaque message de l'utilisateur :
+- 
  -Le script ajoute ce message à l'historique de la conversation.
+  
  -Il envoie l'historique complet à l'API OpenAI pour obtenir une réponse.
+ 
  -Il enregistre la réponse de l'IA dans l'historique de la conversation.
+ 
  -Il affiche la réponse de l'IA dans la console.
+ 
  -Il enregistre chaque échange (message de l'utilisateur et réponse de l'IA) dans le fichier journal correspondant.
   
 ***5.*** **Fin de la conversation :**
